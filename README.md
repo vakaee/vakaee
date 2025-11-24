@@ -5,10 +5,10 @@
 
   ## What I Do
 
-  - 🤖 Build multi-agent AI systems and autonomous workflows
-  - 🔧 Design and implement production automation infrastructure
-  - 🚀 Help companies leverage AI for real business outcomes
-  - 💼 Full-stack development with a focus on AI integration
+  - Build multi-agent AI systems and autonomous workflows
+  - Design and implement production automation infrastructure
+  - Help companies leverage AI for real business outcomes
+  - Full-stack development with a focus on AI integration
 
   ## Currently Working On
 
@@ -48,18 +48,6 @@
   ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
   ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
   ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
-  ## GitHub Stats
-
-  ![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vakaee&show_icons=true&theme=radical)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vakaee&layout=compact&theme=radical)
-
-  ## Let's Connect
-
-  - 🌐 Website: [realaicollective.com](https://realaicollective.com)
-  - 📧 Email: vlad@realaicollective.com
-  - 💼 LinkedIn: [linkedin.com/in/vladpetoukhov](https://linkedin.com/in/vladpetoukhov)
 
   ---
 
