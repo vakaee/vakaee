@@ -13,8 +13,7 @@
   ## Currently Working On
 
   - AI-powered telemarketing and sales automation systems
-  - Multi-agent workflows using n8n, Make.com, and custom solutions
-  - Production deployments on AWS, Azure, and Digital Ocean
+  - A couple of cool projects in compliance and education
 
   ## Tech Stack
 
